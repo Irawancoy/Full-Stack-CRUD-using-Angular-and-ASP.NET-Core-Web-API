@@ -1,0 +1,724 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\list\\list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\list\\list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\create\\create.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\create\\create.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\edit\\edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\details\\details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\details\\details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\edit\\edit.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\pemain-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\pemain-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\posisi.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\posisi.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\create\\create.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\list\\list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\pemain.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\pemain.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\pemain.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\pemain.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\list\\list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9468025A-AC47-49F7-8E60-DE1E49A9C7C3}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9468025A-AC47-49F7-8E60-DE1E49A9C7C3}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\posisi.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\posisi.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\pemain\\pemain.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pemain\\pemain.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|c:\\bootcamp\\padepokan79\\readiness lg\\task2\\full stack crud using angular and asp.net core web api\\angularapp1\\angularapp1.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1A6BB-B953-428D-AD55-44D24A336D9B}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nav-menu.component.html",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T09:30:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.component.html",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\list\\list.component.html",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\list\\list.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:48:00.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\angular.json",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeToolTip": "angularapp1.client\\angular.json",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAG4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T08:19:21.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T08:04:23.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "edit.component.html",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\edit\\edit.component.html",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\edit\\edit.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-30T09:11:51.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "list.component.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\list\\list.component.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\list\\list.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T07:48:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "create.component.html",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\create\\create.component.html",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\create\\create.component.html",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T10:06:30.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "create.component.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\create\\create.component.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\create\\create.component.ts",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T10:06:37.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "edit.component.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\edit\\edit.component.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\edit\\edit.component.ts",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwDMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T10:01:03.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "edit.component.spec.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\edit\\edit.component.spec.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\edit\\edit.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\edit\\edit.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-30T08:18:21.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "details.component.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\details\\details.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\details\\details.component.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\details\\details.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\details\\details.component.ts",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T09:49:45.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nav-menu.component.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T09:43:22.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pemain-routing.module.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\pemain-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\pemain-routing.module.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\pemain-routing.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\pemain-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T06:32:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T06:32:20.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\package.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\package.json",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\package.json",
+              "RelativeToolTip": "angularapp1.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T08:19:15.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\tsconfig.json",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\tsconfig.json",
+              "RelativeToolTip": "angularapp1.client\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T08:19:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "posisi.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\posisi.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\posisi.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\posisi.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\posisi.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T06:51:02.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "create.component.spec.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\create\\create.component.spec.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\create\\create.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\create\\create.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T10:19:41.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "list.component.spec.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\list\\list.component.spec.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\list\\list.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T10:18:05.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T08:04:28.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\index.html",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\index.html",
+              "RelativeToolTip": "angularapp1.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T08:21:43.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "pemain.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\pemain.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\pemain.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\pemain.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\pemain.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T06:51:08.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T06:58:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "pemain.service.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\pemain.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\pemain.service.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\pemain.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\pemain.service.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T06:58:47.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T08:23:09.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "nav-menu.component.css",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\nav-menu\\nav-menu.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T09:20:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\main.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T08:19:24.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T08:04:12.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "list.component.css",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\list\\list.component.css",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\list\\list.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\list\\list.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T07:47:58.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\home\\home.component.css",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\home\\home.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T07:47:53.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:39:28.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "posisi.service.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\posisi.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\posisi.service.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\posisi.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\posisi.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T07:21:53.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "angularapp1.client\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-29T08:19:23.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "favicon.ico -  [English (United States)] - Icon [48x48, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\favicon.ico",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\favicon.ico",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\favicon.ico -  [English (United States)] - Icon [48x48, 32 bit, BMP]",
+              "RelativeToolTip": "angularapp1.client\\src\\favicon.ico -  [English (United States)] - Icon [48x48, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-08-29T08:21:42.738Z",
+              "EditorCaption": " -  [English (United States)] - Icon [48x48, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "pemain.module.ts",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\pemain.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pemain\\pemain.module.ts",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\pemain\\pemain.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pemain\\pemain.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-29T08:23:06.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\.gitignore",
+              "RelativeDocumentMoniker": "angularapp1.client\\.gitignore",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\.gitignore",
+              "RelativeToolTip": "angularapp1.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T08:19:22.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\styles.css",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\styles.css",
+              "RelativeToolTip": "angularapp1.client\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T08:21:38.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\nuget.config",
+              "RelativeDocumentMoniker": "angularapp1.client\\nuget.config",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\nuget.config",
+              "RelativeToolTip": "angularapp1.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-29T08:19:16.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\karma.conf.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\karma.conf.js",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\karma.conf.js",
+              "RelativeToolTip": "angularapp1.client\\karma.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-29T08:19:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\aspnetcore-https.js",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\aspnetcore-https.js",
+              "RelativeToolTip": "angularapp1.client\\aspnetcore-https.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-29T08:19:19.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\README.md",
+              "RelativeDocumentMoniker": "angularapp1.client\\README.md",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\README.md",
+              "RelativeToolTip": "angularapp1.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-29T08:19:14.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:58:25.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

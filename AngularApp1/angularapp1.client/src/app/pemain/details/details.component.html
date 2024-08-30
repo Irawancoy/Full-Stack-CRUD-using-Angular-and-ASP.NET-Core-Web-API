@@ -1,0 +1,51 @@
+<div class="container">
+  <div class="d-flex justify-content-between align-items-center">
+    <h3>Detail Pemain</h3>
+    <a href="#" routerLink="/pemain/list" class="btn btn-secondary btn-sm">Kembali</a>
+  </div>
+  <div class="card" *ngIf="pemain; else loading">
+    <div class="card-header">
+      <h4>{{ pemain.nama }}</h4>
+    </div>
+  <div class="row g-2">
+    <div class="col-md">
+
+      <div class="form-floating">
+        <input class="form-control" id="floatingInputGrid" placeholder={{pemain.id}} value={{pemain.id}} disabled>
+        <label for="floatingInputGrid">Id</label>
+      </div>
+
+      <div class="form-floating">
+        <input class="form-control" id="floatingInputGrid" placeholder={{pemain.nama}} value={{pemain.nama}} disabled>
+        <label for="floatingInputGrid">Nama</label>
+      </div>
+
+      <div class="form-floating">
+        <input class="form-control" id="floatingInputGrid" placeholder={{pemain.nomorPunggung}} value={{pemain.nomorPunggung}} disabled>
+        <label for="floatingInputGrid">Nomor Punggung</label>
+      </div>
+
+      <div class="form-floating">
+        <input class="form-control" id="floatingInputGrid" placeholder={{pemain.posisi?.namaPosisi}} value={{pemain.posisi?.namaPosisi}} disabled>
+        <label for="floatingInputGrid">Posisi</label>
+      </div>
+
+      <div class="form-floating">
+        <input class="form-control" id="floatingInputGrid" placeholder={{pemain.pertandingan}} value={{pemain.pertandingan}} disabled>
+        <label for="floatingInputGrid">Pertandingan</label>
+      </div>
+
+      <div class="form-floating">
+        <input class="form-control" id="floatingInputGrid" placeholder={{pemain.gol}} value={{pemain.gol}} disabled>
+        <label for="floatingInputGrid">Gol</label>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+  <ng-template #loading>
+    <p>Loading...</p>
+  </ng-template>
+</div>

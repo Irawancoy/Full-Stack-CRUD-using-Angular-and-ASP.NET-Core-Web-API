@@ -1,0 +1,50 @@
+<div class="container">
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h3>Edit Pemain</h3>
+    <a href="#" routerLink="/pemain/list" class="btn btn-secondary btn-sm">Kembali</a>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <h4>{{ pemain.nama }}</h4>
+    </div>
+    <div class="card-body">
+      <form [formGroup]="editForm" (ngSubmit)="onSubmit(editForm)">
+        <input formControlName="id" id="id" type="hidden" />
+
+        <div class="mb-3">
+          <label for="nama" class="form-label">Nama</label>
+          <input type="text" class="form-control" id="nama" formControlName="nama" placeholder="Masukkan Nama" />
+        </div>
+
+        <div class="mb-3">
+          <label for="nomorPunggung" class="form-label">Nomor Punggung</label>
+          <input type="text" class="form-control" id="nomorPunggung" formControlName="nomorPunggung" placeholder="Masukkan Nomor Punggung" />
+        </div>
+
+        <div class="mb-3">
+          <label for="idPosisi" class="form-label">Posisi</label>
+          <select class="form-control" id="idPosisi" formControlName="idPosisi">
+            <option value="" disabled selected>Pilih Posisi</option>
+            <option *ngFor="let posisi of posisis" [value]="posisi.id">{{ posisi.namaPosisi }}</option>
+          </select>
+        </div>
+
+        <div class="mb-3">
+          <label for="pertandingan" class="form-label">Pertandingan</label>
+          <input type="text" class="form-control" id="pertandingan" formControlName="pertandingan" placeholder="Masukkan Pertandingan" />
+        </div>
+
+        <div class="mb-3">
+          <label for="gol" class="form-label">Gol</label>
+          <input type="text" class="form-control" id="gol" formControlName="gol" placeholder="Masukkan Gol" />
+        </div>
+
+        <div class="card-footer">
+          <div class="d-flex justify-content-end">
+            <button class="btn btn-primary" type="submit" [disabled]="!editForm.valid">Update</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

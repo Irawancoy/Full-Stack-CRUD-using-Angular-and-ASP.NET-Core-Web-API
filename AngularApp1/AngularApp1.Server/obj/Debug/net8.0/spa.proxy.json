@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\AngularApp1.Server\\..\\angularapp1.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

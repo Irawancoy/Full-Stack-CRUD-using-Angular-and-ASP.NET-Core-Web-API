@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "DvisWpWg5AW49CtaOZG8zPsTOdOEHRhUtcDicdvlBDQ=",
+  "Source": "AngularApp1.Server",
+  "BasePath": "_content/AngularApp1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\Task2\\Full Stack CRUD using Angular and ASP.NET Core Web API\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj",
+      "Version": 2,
+      "Source": "angularapp1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
