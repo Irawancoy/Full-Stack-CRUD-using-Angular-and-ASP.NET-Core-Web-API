@@ -17,6 +17,7 @@ using Microsoft.EntityFrameworkCore;
         {
         return await _context.Pemains
                 .Include(x=>x.Posisi)
+                .OrderBy(x=>x.Id)
                 .ToListAsync();
         }
 

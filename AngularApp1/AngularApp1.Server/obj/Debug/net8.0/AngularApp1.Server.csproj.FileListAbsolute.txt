@@ -237,3 +237,4 @@ C:\Bootcamp\Padepokan79\Readiness LG\Task2\Full Stack CRUD using Angular and ASP
 C:\Bootcamp\Padepokan79\Readiness LG\Task2\Full Stack CRUD using Angular and ASP.NET Core Web API\AngularApp1\AngularApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Bootcamp\Padepokan79\Readiness LG\Task2\Full Stack CRUD using Angular and ASP.NET Core Web API\AngularApp1\AngularApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Bootcamp\Padepokan79\Readiness LG\Task2\Full Stack CRUD using Angular and ASP.NET Core Web API\AngularApp1\AngularApp1.Server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Bootcamp\Padepokan79\Readiness LG\Task2\Full Stack CRUD using Angular and ASP.NET Core Web API\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\AngularApp1.Server.sourcelink.json
