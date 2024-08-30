@@ -4,18 +4,17 @@
     <a href="#" routerLink="/pemain/create" class="btn btn-success btn-sm">Tambah Pemain</a>
   </div>
 
-  <div class="table-responsive">
+  <div class="table-responsive text-center">
     <table class="table table-hover">
       <thead>
         <tr>
-
           <th>Id</th>
           <th>Nama</th>
           <th>Nomor Punggung</th>
           <th>Posisi</th>
           <th>Pertandingan</th>
           <th>Gol</th>
-          <th width="200px">Aksi</th>
+          <th  style="width: 200px;">Aksi</th> 
         </tr>
       </thead>
       <tbody>
@@ -26,19 +25,19 @@
           <td>{{ pemain.posisi?.namaPosisi }}</td>
           <td>{{ pemain.pertandingan }}</td>
           <td>{{ pemain.gol }}</td>
-          <td class="d-flex gap-1">
+          <td class="text-center">
+            <div class="d-flex gap-1 justify-content-center">
             <a href="#" [routerLink]="['/pemain', pemain.id, 'detail']" class="btn btn-info btn-sm">
               <i class="fas fa-info-circle"></i>
-            
             </a>
             <a href="#" [routerLink]="['/pemain', pemain.id, 'edit']" class="btn btn-primary btn-sm">
               <i class="fas fa-edit"></i>
-              
             </a>
             <button type="button" (click)="deletePemain(pemain.id)" class="btn btn-danger btn-sm">
               <i class="fas fa-trash-alt"></i>
-            
             </button>
+            </div>
+       
           </td>
         </tr>
       </tbody>
